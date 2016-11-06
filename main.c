@@ -18,9 +18,6 @@
 #include"lib/unauth_user.c"
 #include"lib/final_triangles.c"
 
-
-
-
 int main(int argc, char **argv)
 {
 	int submenu;
